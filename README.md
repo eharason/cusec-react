@@ -11,21 +11,6 @@ Please read on for more details!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Commands
-
-`npm i`
-- Install dependencies
-
-`npm start`
-- Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-- The page will reload when you make changes.
-You may also see any lint errors in the console.
-
-`npm test`
-- Launches the test runner in the interactive watch mode.
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ## Using Copilot
 
 Ensure you have `GitHub Copilot set up` (either the Free Trial or GitHub Education)
@@ -80,3 +65,18 @@ Ran all test suites related to changed files.
 ```
 
 The goal is to complete the above task(s) as quickly as possible, using GitHub Copilot Chat. Ask it questions, then receive and implement the answers in your code. Make sure to keep a record of the questions you asked so that we can go over it together at the end of the exercise.
+
+## Commands
+
+`npm i`
+- Install dependencies
+
+`npm start`
+- Runs the app in the development mode.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+`npm test`
+- Launches the test runner in the interactive watch mode.
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
